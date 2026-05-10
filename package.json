@@ -6,5 +6,6 @@
   "main": "package.js",
   "scripts": {
     "start": "node package.js"
-  }
+  },
+  "packageManager": "pnpm@latest"
 }
