@@ -5,8 +5,8 @@
   "private": true,
   "scripts": {
     "start": "node index.js",
-    "build": "tsc",
-    "typecheck": "tsc"
+    "build": "echo \"no build step\"",
+    "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
     "typescript": "~5.9.2",
