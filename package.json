@@ -4,9 +4,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "node index.js",
-    "build": "echo \"no build step\"",
-    "typecheck": "tsc --noEmit"
+    "start": "node index.js"
   },
   "devDependencies": {
     "typescript": "~5.9.2",
