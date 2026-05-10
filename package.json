@@ -3,7 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
+  "main": "package.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node package.js"
   }
 }
