@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
-  "main": "package.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node package.js"
+    "start": "node index.js"
   },
   "packageManager": "pnpm@latest"
 }
